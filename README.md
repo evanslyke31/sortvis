@@ -1,2 +1,3 @@
 [LIVE VERSION](https://evanslyke31.github.io/sortvis/)
-![gif](https://imgur.com/kOjNcMt.gif)
+
+![Soring Algorithms visualized]("https://imgur.com/kOjNcMt.gif")
