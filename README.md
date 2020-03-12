@@ -1,2 +1,2 @@
 [LIVE VERSION](https://evanslyke31.github.io/sortvis/)
-![gif](https://i.imgur.com/knimETx.gif)
+![gif](https://imgur.com/kOjNcMt.gif)
